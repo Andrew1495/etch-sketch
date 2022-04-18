@@ -48,12 +48,11 @@ button{
     height: 50px;
     border-radius: 30px;
     font-size: medium;
-    
-
-
-
 }
 
+button:active{
+    background-color:rgb(56, 56, 56) ;
+}
 
 .etch{
     display: grid;
@@ -65,7 +64,9 @@ button{
 
 }
 
-
+.grid{
+    background-color: white;
+}
 
 
 .footer{
